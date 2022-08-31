@@ -1,24 +1,17 @@
+## SOBRE
+PROJETO CRIADO PARA REALIZAR O DESAFIO TÉCNICO DA EMPRESA OrçaAqui
+
 # desafio-orcaaqui-spa
+SPA feito inteiramente com Vue.js
 
 ## Project setup
-```
-npm install
-```
+## Executar Docker Composer 
+- docker-compose up
+## Acessar
+http://localhost:8080/login
+## login 
+comprador
+## password
+123456
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
